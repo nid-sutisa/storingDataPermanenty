@@ -42,6 +42,7 @@ class ViewController: UIViewController {
             print("result from Permanent ==> \(myPermanent)")
             showPhoneLabel.text = myPermanent
             
+            
         }
         
         
